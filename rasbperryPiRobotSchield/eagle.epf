@@ -348,10 +348,11 @@ UsedLibrary="C:/EAGLE-7.2.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/EAGLE-7.2.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE-7.2.0/lbr/zilog.lbr"
 UsedLibrary="D:/projekty/diodki/eagle/libs/DS1820.lbr"
+UsedLibrary="D:/projekty/remoteme/open/electronicSchematic/libraries/RPI-Zero.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="2899 188 4098 827"
+Loc="391 183 1590 822"
 State=2
 Number=0
 
