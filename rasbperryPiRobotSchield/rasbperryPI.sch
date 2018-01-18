@@ -8925,18 +8925,20 @@ by exp-project-lbr.ulp</description>
 <wire x1="10.16" y1="78.74" x2="20.32" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="RX" class="0">
 <segment>
 <pinref part="JP3" gate="1" pin="3"/>
 <pinref part="U$1" gate="G$1" pin="RXD0/GPIO15"/>
 <wire x1="30.48" y1="101.6" x2="30.48" y2="91.44" width="0.1524" layer="91"/>
+<label x="33.02" y="96.52" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="N$16" class="0">
+<net name="TX" class="0">
 <segment>
 <pinref part="JP3" gate="1" pin="2"/>
 <pinref part="U$1" gate="G$1" pin="TXD0/GPIO14"/>
 <wire x1="27.94" y1="101.6" x2="27.94" y2="91.44" width="0.1524" layer="91"/>
+<label x="25.4" y="96.52" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$1" class="0">
